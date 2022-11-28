@@ -1,0 +1,1 @@
+docker buildx build --platform=linux/amd64 -t yhub-hwy.ssl.ysten.com:9880/hwy/weilai/inject:v6.0 .
